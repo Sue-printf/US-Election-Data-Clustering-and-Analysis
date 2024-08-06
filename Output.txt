@@ -1,0 +1,182 @@
+Cleaned Dataset:
+            1972  1976  1980  1984  1988  1992  1996  2000 ‡  2004  2008  \
+Alabama        1     0     1     1     1     1     1       1     1     1   
+Alaska         1     1     1     1     1     1     1       1     1     1   
+Arizona        1     1     1     1     1     1     0       1     1     1   
+Arkansas       1     0     1     1     1     0     0       1     1     1   
+California     1     1     1     1     1     0     0       0     0     0   
+
+            2012  2016 ‡  2020  
+Alabama        1       1     1  
+Alaska         1       1     1  
+Arizona        1       1     0  
+Arkansas       1       1     1  
+California     0       0     0  
+
+States that voted exclusively Republican:
+              1972  1976  1980  1984  1988  1992  1996  2000 ‡  2004  2008  \
+Alaska           1     1     1     1     1     1     1       1     1     1   
+Idaho            1     1     1     1     1     1     1       1     1     1   
+Kansas           1     1     1     1     1     1     1       1     1     1   
+Nebraska         1     1     1     1     1     1     1       1     1     1   
+North Dakota     1     1     1     1     1     1     1       1     1     1   
+Oklahoma         1     1     1     1     1     1     1       1     1     1   
+South Dakota     1     1     1     1     1     1     1       1     1     1   
+Utah             1     1     1     1     1     1     1       1     1     1   
+Wyoming          1     1     1     1     1     1     1       1     1     1   
+
+              2012  2016 ‡  2020  
+Alaska           1       1     1  
+Idaho            1       1     1  
+Kansas           1       1     1  
+Nebraska         1       1     1  
+North Dakota     1       1     1  
+Oklahoma         1       1     1  
+South Dakota     1       1     1  
+Utah             1       1     1  
+Wyoming          1       1     1  
+
+States that voted exclusively Democratic:
+      1972  1976  1980  1984  1988  1992  1996  2000 ‡  2004  2008  2012  \
+D.C.     0     0     0     0     0     0     0       0     0     0     0   
+
+      2016 ‡  2020  
+D.C.       0     0  
+
+States that voted exactly the same as Illinois:
+             1972  1976  1980  1984  1988  1992  1996  2000 ‡  2004  2008  \
+California      1     1     1     1     1     0     0       0     0     0   
+Connecticut     1     1     1     1     1     0     0       0     0     0   
+Illinois        1     1     1     1     1     0     0       0     0     0   
+Maine           1     1     1     1     1     0     0       0     0     0   
+New Jersey      1     1     1     1     1     0     0       0     0     0   
+Vermont         1     1     1     1     1     0     0       0     0     0   
+
+             2012  2016 ‡  2020  
+California      0       0     0  
+Connecticut     0       0     0  
+Illinois        0       0     0  
+Maine           0       0     0  
+New Jersey      0       0     0  
+Vermont         0       0     0  
+
+
+Clustering results:
+                1972  1976  1980  1984  1988  1992  1996  2000 ‡  2004  2008  \
+Alabama            1     0     1     1     1     1     1       1     1     1   
+Alaska             1     1     1     1     1     1     1       1     1     1   
+Arizona            1     1     1     1     1     1     0       1     1     1   
+Arkansas           1     0     1     1     1     0     0       1     1     1   
+California         1     1     1     1     1     0     0       0     0     0   
+Colorado           1     1     1     1     1     0     1       1     1     0   
+Connecticut        1     1     1     1     1     0     0       0     0     0   
+Delaware           1     0     1     1     1     0     0       0     0     0   
+D.C.               0     0     0     0     0     0     0       0     0     0   
+Florida            1     0     1     1     1     1     0       1     1     0   
+Georgia            1     0     0     1     1     0     1       1     1     1   
+Hawaii             1     0     0     1     0     0     0       0     0     0   
+Idaho              1     1     1     1     1     1     1       1     1     1   
+Illinois           1     1     1     1     1     0     0       0     0     0   
+Indiana            1     1     1     1     1     1     1       1     1     0   
+Iowa               1     1     1     1     0     0     0       0     1     0   
+Kansas             1     1     1     1     1     1     1       1     1     1   
+Kentucky           1     0     1     1     1     0     0       1     1     1   
+Louisiana          1     0     1     1     1     0     0       1     1     1   
+Maine              1     1     1     1     1     0     0       0     0     0   
+Maryland           1     0     0     1     1     0     0       0     0     0   
+Massachusetts      0     0     1     1     0     0     0       0     0     0   
+Michigan           1     1     1     1     1     0     0       0     0     0   
+Minnesota          1     0     0     0     0     0     0       0     0     0   
+Mississippi        1     0     1     1     1     1     1       1     1     1   
+Missouri           1     0     1     1     1     0     0       1     1     1   
+Montana            1     1     1     1     1     0     1       1     1     1   
+Nebraska           1     1     1     1     1     1     1       1     1     1   
+Nevada             1     1     1     1     1     0     0       1     1     0   
+New Hampshire      1     1     1     1     1     0     0       1     0     0   
+New Jersey         1     1     1     1     1     0     0       0     0     0   
+New Mexico         1     1     1     1     1     0     0       0     1     0   
+New York           1     0     1     1     0     0     0       0     0     0   
+North Carolina     1     0     1     1     1     1     1       1     1     0   
+North Dakota       1     1     1     1     1     1     1       1     1     1   
+Ohio               1     0     1     1     1     0     0       1     1     0   
+Oklahoma           1     1     1     1     1     1     1       1     1     1   
+Oregon             1     1     1     1     0     0     0       0     0     0   
+Pennsylvania       1     0     1     1     1     0     0       0     0     0   
+Rhode Island       1     0     0     1     0     0     0       0     0     0   
+South Carolina     1     0     1     1     1     1     1       1     1     1   
+South Dakota       1     1     1     1     1     1     1       1     1     1   
+Tennessee          1     0     1     1     1     0     0       1     1     1   
+Texas              1     0     1     1     1     1     1       1     1     1   
+Utah               1     1     1     1     1     1     1       1     1     1   
+Vermont            1     1     1     1     1     0     0       0     0     0   
+Virginia           1     1     1     1     1     1     1       1     1     0   
+Washington         1     1     1     1     0     0     0       0     0     0   
+West Virginia      1     0     0     1     0     0     0       1     1     1   
+Wisconsin          1     0     1     1     0     0     0       0     0     0   
+Wyoming            1     1     1     1     1     1     1       1     1     1   
+
+                2012  2016 ‡  2020  Cluster  
+Alabama            1       1     1        1  
+Alaska             1       1     1        1  
+Arizona            1       1     0        1  
+Arkansas           1       1     1        2  
+California         0       0     0        0  
+Colorado           0       0     0        0  
+Connecticut        0       0     0        0  
+Delaware           0       0     0        0  
+D.C.               0       0     0        0  
+Florida            0       1     1        2  
+Georgia            1       1     0        2  
+Hawaii             0       0     0        0  
+Idaho              1       1     1        1  
+Illinois           0       0     0        0  
+Indiana            1       1     1        1  
+Iowa               0       1     1        0  
+Kansas             1       1     1        1  
+Kentucky           1       1     1        2  
+Louisiana          1       1     1        2  
+Maine              0       0     0        0  
+Maryland           0       0     0        0  
+Massachusetts      0       0     0        0  
+Michigan           0       1     0        0  
+Minnesota          0       0     0        0  
+Mississippi        1       1     1        1  
+Missouri           1       1     1        2  
+Montana            1       1     1        1  
+Nebraska           1       1     1        1  
+Nevada             0       0     0        0  
+New Hampshire      0       0     0        0  
+New Jersey         0       0     0        0  
+New Mexico         0       0     0        0  
+New York           0       0     0        0  
+North Carolina     1       1     1        1  
+North Dakota       1       1     1        1  
+Ohio               0       1     1        2  
+Oklahoma           1       1     1        1  
+Oregon             0       0     0        0  
+Pennsylvania       0       1     0        0  
+Rhode Island       0       0     0        0  
+South Carolina     1       1     1        1  
+South Dakota       1       1     1        1  
+Tennessee          1       1     1        2  
+Texas              1       1     1        1  
+Utah               1       1     1        1  
+Vermont            0       0     0        0  
+Virginia           0       0     0        1  
+Washington         0       0     0        0  
+West Virginia      1       1     1        2  
+Wisconsin          0       1     0        0  
+Wyoming            1       1     1        1  
+
+Cluster analysis:
+             1972      1976      1980      1984      1988      1992      1996  \
+Cluster                                                                         
+0        0.916667  0.583333  0.791667  0.916667  0.583333  0.000000  0.041667   
+1        1.000000  0.722222  1.000000  1.000000  1.000000  0.944444  0.944444   
+2        1.000000  0.000000  0.777778  1.000000  0.888889  0.111111  0.111111   
+
+         2000 ‡      2004      2008      2012    2016 ‡      2020  
+Cluster                                                            
+0         0.125  0.166667  0.000000  0.000000  0.166667  0.041667  
+1         1.000  1.000000  0.833333  0.944444  0.944444  0.888889  
+2         1.000  1.000000  0.777778  0.777778  1.000000  0.888889  

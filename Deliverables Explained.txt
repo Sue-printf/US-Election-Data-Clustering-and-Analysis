@@ -1,0 +1,20 @@
+Description of the program
+
+* The Python program collects U.S. presidential election data that had been retrieved from a Wikipedia table for analysis. First, the data is cleansed by translating the "D" to be represented as "0" and the "R" as "1", thus making it numerical for the analysis. 
+
+* Then, it identifies specific subsets of states: the ones voting for the Republican, the ones voting only for the Democratic, and the ones voting either the same as, or opposite to, Illinois. 
+
+* Subsequently, the clusters are obtained through the application of K-means clustering algorithm function from the sklearn library and the optimal K value is assessed using the elbow method which is realized by executing K-means with the optimal K. 
+
+* Thereafter, each cluster is visually and numerically interpreted according to the existing political landscape and the DataFrame is grouped and voting patterns therein are computed.
+
+
+The Deliverables Explained
+
+1. The cleaned dataset: The cleaned dataset is represented by the DataFrame election_df, where "D" and "R" characters have been replaced with 0's and 1's, respectively.
+
+2. Answers to the subset identification tasks: The code identifies states that voted Republican exclusively, those that voted exclusively for the Democratic Party, and those that were identical to Illinois in their votes.  The results for each subset are printed out separately.
+
+3. The plot of within-cluster variance for different values of K. Justification for the chosen value of K: the code plots the within-cluster variance versus different values of K, thus helping to determine the optimal number of clusters. The plot serves to clearly and visually show how the optimal K of 3, which the code assumes, was determined by the elbow method.
+
+4. Interpretation of each cluster: the code gives a representation of each cluster by calculating means of voting patterns within each cluster and outputs the results. This facilitates the understanding of the political landscape every cluster represents clearly.
